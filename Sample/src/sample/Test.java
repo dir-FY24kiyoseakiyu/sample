@@ -6,7 +6,7 @@ public class Test {
         System.out.println("kiramex");
         System.out.println("java");
         System.out.println("学習を始めよう！");
-
+        
     }
 
 }
